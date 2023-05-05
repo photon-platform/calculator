@@ -24,8 +24,8 @@ dependencies = [
 ]
 
 [project.scripts]
-logger = "photonplatform.logger.__main__:main"
+calculator = "calculator.app:run"
 
-[project.urls]
-"Homepage" = "https://github.com/photon-platform/logger"
-"Bug Tracker" = "https://github.com/photon-platform/logger/issues"
+# [project.urls]
+# "Homepage" = "https://github.com/photon-platform/logger"
+# "Bug Tracker" = "https://github.com/photon-platform/logger/issues"
